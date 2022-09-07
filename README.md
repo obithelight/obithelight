@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **my journey in web development**
 
-- 📫 How to reach me **https://twitter.com/obithelight**
+- 📫 How to reach me **kennetho.onu@gmail.com** 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
