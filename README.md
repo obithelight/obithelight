@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, <code>I'm obithelight<code></h1>
+![hello](https://user-images.githubusercontent.com/91734251/190281161-01bbdcda-20b9-40db-a8ff-f0db3bfc3ef9.gif)
+<h1 align="center"><code>I'm obithelight<code></h1>
 <h3 align="center">A software engineer excited about evolving technologies in the blockchain and web3.</h3>
 
 <p align="center">Whether its building full stack applications, responsive web designs, or creating something new for the web, I combine stellar designs, optimal UI/UX, and industry best practices for the tech stack.</p>
