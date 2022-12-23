@@ -1,19 +1,19 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/91734251/190281161-01bbdcda-20b9-40db-a8ff-f0db3bfc3ef9.gif" alt="animated" />
 </p>
-<h1 align="center"><code>I'm obithelight<code></h1>
-<h3 align="center">A software engineer excited about evolving technologies in the blockchain and web3.</h3>
+<code><h1 align="center">I'm obithelight</h1></code>
+<code><h3 align="center">A software engineer excited about evolving technologies in AI and the blockchain.</h3></code>
 
 <p align="center">Whether its building full stack applications, responsive web designs, or creating something new for the web, I combine stellar designs, optimal UI/UX, and industry best practices for the tech stack.</p>
   
 <p align="center">
   <a href="https://obithelight.com/home/" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"></a>
-  <a href="https://www.codewars.com/users/obithelight/" target="_blank"><img alt="Codewars" src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey">
   <a href="https://twitter.com/obithelight/" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a> 
-  <a href="https://www.instagram.com/obithelight/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<!--   <a href="https://www.instagram.com/obithelight/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a> -->
   <a href="https://www.linkedin.com/in/obithelight/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>  
+    <a href="https://www.codewars.com/users/obithelight/" target="_blank"><img alt="Codewars" src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey">
 <!--     <a href="mailto:obithelight@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> -->
-    <a href="https://www.youtube.com/obithelight/" target="_blank"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"></a>
+<!--     <a href="https://www.youtube.com/obithelight/" target="_blank"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"></a> -->
 </p>
   
 - 🌱 I’m currently learning **React.js**
@@ -31,7 +31,7 @@
 <a href="https://instagram.com/obithelight" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="obithelight" height="30" width="40" /></a>
 </p> -->
 
-<p align="center">Languages and Tools:</p>
+  <p align="center"><code>Languages and Tools:</code></p>
 <p align="center">
   <a href="#" target="_blank"><img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"></a>
   <a href="#" target="_blank"><img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"></a>
