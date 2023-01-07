@@ -9,7 +9,8 @@
 <p align="center">
   <a href="https://obithelight.com/home/" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"></a>
   <a href="https://twitter.com/obithelight/" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a> 
-<!--   <a href="https://www.instagram.com/obithelight/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a> -->
+<!--    <a href="https://www.instagram.com/obithelight/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>  -->
+     <a href="https://www.angel.co/u/kenneth-onu/" target="_blank"><img alt="Angel-List" src="https://img.shields.io/badge/Angellist-20B2AA?style=for-the-badge&logo=angellist&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/obithelight/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>  
     <a href="https://www.codewars.com/users/obithelight/" target="_blank"><img alt="Codewars" src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey">
 <!--     <a href="mailto:obithelight@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> -->
