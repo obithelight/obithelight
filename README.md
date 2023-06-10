@@ -19,9 +19,9 @@
   
 - 🌱 I’m currently learning **React.js**
 
-- 👯 I’m looking to collaborate on **building innovative projects with my skills and experience**
+- 👯 I’m looking to collaborate on **open source projects**
 
-- 💬 Ask me about **my journey in web development**
+- 💬 I'll be glad to answer any questions, feel free to **reach out**
 
 - 📫 How to reach me **obithelight@gmail.com** 
 
