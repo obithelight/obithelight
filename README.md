@@ -4,7 +4,7 @@
 <code><h1 align="center">I'm obithelight</h1></code>
 <code><h3 align="center">A software engineer excited about evolving technologies in AI and the blockchain.</h3></code>
 
-<p align="center">Whether its building full stack applications, responsive web designs, or creating something new for the web, I combine stellar designs, optimal UI/UX, and industry best practices for the tech stack.</p>
+<p align="center">Whether it's building full stack applications, responsive web designs, or creating something new for the web, I combine stellar designs, optimal UI/UX, and industry best practices for the tech stack.</p>
   
 <p align="center">
   <a href="https://obithelight.netlify.app/" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"></a>
@@ -37,6 +37,7 @@
   <a href="#" target="_blank"><img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"></a>
   <a href="#" target="_blank"><img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"></a>
   <a href="#" target="_blank"><img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"></a>
+  <a href="#" target="_blank"><img alt="C" src="https://img.shields.io/badge/C-%00599C.svg?style=for-the-badge&logo=c&logoColor=white"></a>
   <a href="#" target="_blank"><img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"></a>
   <a href="#" target="_blank"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"></a> 
 </p> 
