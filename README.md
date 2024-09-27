@@ -2,7 +2,7 @@
   <img src="https://user-images.githubusercontent.com/91734251/190281161-01bbdcda-20b9-40db-a8ff-f0db3bfc3ef9.gif" alt="animated" />
 </p>
 <code><h1 align="center">I'm obi</h1></code>
-<code><h3 align="center">A software engineer excited about evolving technologies in AI and the blockchain.</h3></code>
+<code><h3 align="center">A software engineer excited about evolving technologies in Artificial Intelligence and the blockchain.</h3></code>
 
 <p align="center">Whether it's building full-stack applications, responsive web designs, or creating something new for the web, I combine stellar designs, optimal UI/UX, and industry best practices for the tech stack.</p>
   
@@ -17,13 +17,13 @@
 <!--     <a href="https://www.youtube.com/obithelight/" target="_blank"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"></a> -->
 </p>
   
-- 🌱 I’m currently learning **React.js**
+<!--   - 🌱 I’m currently learning **React.js**  -->
 
-- 👯 I’m looking to collaborate on **open source projects**
+- 👯 I’m looking to collaborate on **open source and real-world projects**
 
 - 💬 I'll be glad to answer any questions, feel free to **reach out**
 
-- 📫 How to reach me **obithelight@gmail.com** 
+- 📫 How to reach me **kennetho.onu@gmail.com** 
 
 <!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
