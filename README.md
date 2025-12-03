@@ -7,7 +7,7 @@
 <p align="center">Whether it's building full-stack applications, responsive web designs, or creating something new for the web, I combine stellar designs, optimal UI/UX, and industry best practices for the tech stack.</p>
   
 <p align="center">
-  <a href="https://obithelight.netlify.app/" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"></a>
+  <!-- <a href="https://obithelight.netlify.app/" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"></a> -->
   <a href="https://twitter.com/obithelight/" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a> 
 <!--    <a href="https://www.instagram.com/obithelight/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>  -->
      <a href="https://www.angel.co/u/kenneth-onu/" target="_blank"><img alt="Angel-List" src="https://img.shields.io/badge/Angellist-20B2AA?style=for-the-badge&logo=angellist&logoColor=white"></a>
